@@ -1,6 +1,9 @@
 body {
     background: #cccccc;
 }
+.principal {
+    background: #cccccc;
+}
 h1 {
     text-align: center;
     border: 10px solid black;
@@ -17,6 +20,12 @@ em strong{
 }
 #banner{
  width: 100%;    
+}
+.benificios {
+    background: #ffffff;  
+}
+h2{
+    text-align: center;    
 }
 .itens {
     font-style: italic;
