@@ -40,3 +40,9 @@ ul {
     vertical-align: top;
     width: 15%;
 }
+.titulo-principal {
+    padding-left: 20px;
+}
+.titulo-centralizado {
+    text-align: center;
+}
