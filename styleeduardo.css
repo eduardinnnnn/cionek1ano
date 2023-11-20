@@ -3,6 +3,7 @@ body {
 }
 .principal {
     background: #cccccc;
+    padding: 30px;
 }
 h1 {
     text-align: center;
@@ -23,10 +24,19 @@ em strong{
 }
 .benificios {
     background: #ffffff;  
+    padding: 20px;
+}
+.benificios {
+    width: 50%;
 }
 h2{
     text-align: center;    
 }
 .itens {
     font-style: italic;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 15%;
 }
